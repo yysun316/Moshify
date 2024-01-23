@@ -264,18 +264,44 @@ a {
   display: flex;
 }
 
-.input-group .input{
+.input-group .input {
   border: 0;
   /* input takes all the "remaining space" in the container */
   flex-grow: 1;
   padding: 1.5rem 1rem;
 }
 
-.input-group .btn{
+.input-group .btn {
   margin: 4px;
 }
+
 @media screen and (min-width: 1024px) {
   .input {
     font-size: 1.5rem;
   }
+}
+
+
+/* Cards */
+.card {
+  border-radius: 7px;
+  /* | - blur size */
+  box-shadow: 0 0 20px 10px #f3f3f3;
+  /* card__header overflows causing round corner disappeared */
+  overflow: hidden; 
+}
+
+.card__header,
+.card__body {
+  padding: 2rem 3rem;
+}
+
+.card--primary .card__header {
+  background: var(--color-primary);
+  color: white;
+}
+
+.card--secondary .card__header {
+  background: var(--color-secondary);
+  color: white;
 }
