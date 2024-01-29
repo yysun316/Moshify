@@ -22,10 +22,3 @@ This project is a responsive website built using HTML, CSS, and JavaScript. It s
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in your browser.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-issues-page) if you want to contribute.
-
-## License
-
-This project is [MIT](link-to-license) licensed.
