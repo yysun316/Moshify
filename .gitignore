@@ -3,4 +3,4 @@ Moshify_utilities/
 node_modules/
 .cache/
 dist/
-Moshify/components/
+components/
