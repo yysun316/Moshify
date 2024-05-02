@@ -20,5 +20,5 @@ This project is a responsive website built using HTML, CSS, and JavaScript. It s
 ## How to Run
 
 1. Clone the repository to your local machine.
-2. Open the https://65b78ca81cb9132204e8c1e1--startling-dragon-1ff231.netlify.app/ in your browser.
+2. Open the [https://65b78ca81cb9132204e8c1e1--startling-dragon-1ff231.netlify.app/](https://startling-dragon-1ff231.netlify.app) in your browser.
 
